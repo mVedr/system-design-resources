@@ -62,7 +62,7 @@ These are the best resources for System Design on the Internet.
 
 ##
 ## Intra-Service Messaging
-- [What is a message queue](https://www.cloudamqp.com/blog/what-is-message-queuing.html)
+- [What is a message queue](https://www.cloudamqp.com/blog/what-is-message-queuing.html) done
 - [AirBnb Idempotency](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
 - [Meta Async Task Computing](https://engineering.fb.com/2023/01/31/production-engineering/meta-asynchronous-computing/)
 
